@@ -1,6 +1,7 @@
 # VoeAirlines
 
 ### O repositorio trata-se de um projeto desenvolvido para o estudo de front-end e back-end. Com o uso de HTML e Javascript foi feita uma pequena aplicacao para um sistema de voos de uma empresa.
+<hr>
 
 ## Simulando entrevista
 
@@ -9,3 +10,4 @@
 * Aluno: Joao;
 * Dificuldade: facil;
 * Data: 09/09/2022.
+
